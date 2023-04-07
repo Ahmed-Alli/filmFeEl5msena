@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="text"
+        android:icon="@drawable/ic_home"
+      />
+
+    <item
+        android:id="@+id/settings"
+        android:title="text4"
+        android:icon="@drawable/ic_menu"
+        />
+
+    <item
+        android:id="@+id/bookmarks"
+        android:title="/text3"
+        android:icon="@mipmap/roll" />
+</menu>

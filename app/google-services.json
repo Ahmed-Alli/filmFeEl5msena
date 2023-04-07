@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "408291031747",
+    "project_id": "flmfilm",
+    "storage_bucket": "flmfilm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408291031747:android:0b95ca08999af149ae4076",
+        "android_client_info": {
+          "package_name": "arab.play.film"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408291031747-dtsgiscv1v2t4ibokr630o84751osrqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOHvU959B7-UbAiIseLHthlOTIEqyUVGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408291031747-dtsgiscv1v2t4ibokr630o84751osrqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

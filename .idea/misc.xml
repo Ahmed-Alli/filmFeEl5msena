@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ahmed/.gradle/caches/transforms-3/b58458b863e2fa209b82b28c86806810/transformed/jetified-SliderViewLibrary-1.0/res/drawable/tab_indicator_default.xml" value="0.1" />
+        <entry key="..\:/Users/Ahmed/.gradle/caches/transforms-3/b58458b863e2fa209b82b28c86806810/transformed/jetified-SliderViewLibrary-1.0/res/drawable/tab_indicator_selected.xml" value="0.1925" />
+        <entry key="..\:/Users/Ahmed/.gradle/caches/transforms-3/b58458b863e2fa209b82b28c86806810/transformed/jetified-SliderViewLibrary-1.0/res/drawable/tab_selector.xml" value="0.1" />
+        <entry key="..\:/Users/Ahmed/.gradle/caches/transforms-3/b58458b863e2fa209b82b28c86806810/transformed/jetified-SliderViewLibrary-1.0/res/layout/main_slide.xml" value="0.22604166666666667" />
+        <entry key="..\:/Users/Ahmed/.gradle/caches/transforms-3/b58458b863e2fa209b82b28c86806810/transformed/jetified-SliderViewLibrary-1.0/res/layout/slide_view.xml" value="0.22604166666666667" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/appbartop.xml" value="0.1" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/avd_anim.xml" value="0.206" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/btn_color.xml" value="0.3285" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/cat_text_bak.xml" value="0.218" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/catgore_background.xml" value="0.223" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/exit.xml" value="0.16" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_ainm.xml" value="0.212" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_appbar.xml" value="0.188" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_arrow_down.xml" value="0.218" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_baseline_play_circle_filled_24.xml" value="0.223" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_book.xml" value="0.213" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_close.xml" value="0.2045" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_component_2___1.xml" value="0.188" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_component_3___1.xml" value="0.212" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_component_3___11.xml" value="0.213" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_component_4___1.xml" value="0.188" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_component_6___1.xml" value="0.117" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_group_640.xml" value="0.213" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_group_644.xml" value="0.213" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_group_645.xml" value="0.213" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_home.xml" value="0.2045" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_image.xml" value="0.188" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_info.xml" value="0.212" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2005" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_menu.xml" value="0.212" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_pause_24dp.xml" value="0.213" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_play.xml" value="0.3285" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_play_arrow_24dp.xml" value="0.213" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_play_btn.xml" value="0.223" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_rectangle_1011.xml" value="0.117" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_rectangle_246.xml" value="0.188" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_refresh_24dp.xml" value="0.213" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_search.xml" value="0.2325" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_share.xml" value="0.213" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_star.xml" value="0.2045" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_swap.xml" value="0.2045" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_table.xml" value="0.188" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/ic_tv.xml" value="0.212" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/item_card_1.xml" value="0.188" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/login_background.xml" value="0.212" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/rotate.xml" value="0.1055" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/search_background.xml" value="0.2315" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/drawable/vd_vector.xml" value="0.213" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/layout/activity_anim.xml" value="0.22604166666666667" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/layout/activity_film.xml" value="0.16071428571428573" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/layout/activity_privacy_policy.xml" value="0.22604166666666667" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/layout/activity_splash.xml" value="0.18" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/layout/activity_tv_shows.xml" value="0.22604166666666667" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/layout/activity_welcome.xml" value="0.22" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/layout/activity_you_tube_player.xml" value="0.1" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/layout/activity_youtube.xml" value="0.22604166666666667" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/layout/ads.xml" value="0.5709459459459459" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/layout/anim_card.xml" value="0.22604166666666667" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.35074626865671643" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/layout/bottom_sheet_dialog_more.xml" value="0.25" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/layout/card_trailer.xml" value="0.22604166666666667" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/layout/film_card.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/layout/film_card_1.xml" value="0.22604166666666667" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/layout/fragment_one.xml" value="0.1712962962962963" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/layout/fragment_three.xml" value="0.221875" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/layout/fragment_two.xml" value="0.221875" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/layout/notification.xml" value="0.19814814814814816" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/layout/tv_shows_card.xml" value="0.22604166666666667" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/menu/app_bar.xml" value="0.225" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/menu/fab.xml" value="0.25" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/film/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

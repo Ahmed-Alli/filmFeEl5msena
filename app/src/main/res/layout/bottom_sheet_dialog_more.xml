@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white">
+
+
+    <ImageView
+        android:padding="10dp"
+        app:layout_constraintTop_toTopOf="parent"
+        android:id="@+id/pb"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_width="100dp"
+        app:layout_constraintEnd_toStartOf="@id/imageView8"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_group_644"/>
+
+    <ImageView
+        android:padding="10dp"
+
+        app:layout_constraintStart_toEndOf="@id/pb"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/btnShare"
+        android:id="@+id/imageView8"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_component_3___1"/>
+
+    <ImageView
+        android:padding="12dp"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toEndOf="@id/imageView8"
+        android:id="@+id/btnShare"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_group_640"/>
+
+
+
+    <TextView
+        android:id="@+id/textp"
+        app:layout_constraintTop_toBottomOf="@+id/pb"
+        app:layout_constraintEnd_toEndOf="@+id/pb"
+        app:layout_constraintStart_toStartOf="@+id/pb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="سياسة الخصوصية"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <TextView
+
+        app:layout_constraintTop_toBottomOf="@+id/btnShare"
+        app:layout_constraintEnd_toEndOf="@+id/btnShare"
+        app:layout_constraintStart_toStartOf="@+id/btnShare"
+
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="مشاركة"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/imageView8"
+        app:layout_constraintEnd_toEndOf="@+id/imageView8"
+        app:layout_constraintStart_toStartOf="@+id/imageView8"
+        android:layout_height="wrap_content"
+        android:text="تقيم التطبيق"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+
+    <ImageView
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:id="@+id/idBtnDismiss2"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="1dp"
+        android:background="@drawable/exit" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

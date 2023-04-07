@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layoutDirection="rtl"
+    android:layout_height="match_parent"
+    tools:context=".FilmActivity">
+
+    <androidx.appcompat.widget.SearchView
+        android:id="@+id/searchView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="6dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="6dp"
+        android:layout_marginBottom="6dp"
+        android:background="@drawable/search_background"
+        android:iconifiedByDefault="true"
+        android:queryBackground="@android:color/transparent"
+        android:queryHint="ابحث هنا ......"
+        app:searchIcon="@drawable/ic_search">
+
+    </androidx.appcompat.widget.SearchView>
+
+    <HorizontalScrollView
+        android:layout_centerInParent="true"
+        android:id="@+id/hsv"
+        android:layout_marginTop="6dp"
+        android:layout_marginBottom="6dp"
+        android:layout_alignParentTop="true"
+        android:layout_toStartOf="@+id/searchView"
+        android:layout_below="@+id/searchView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal" >
+
+            <Button
+                style="@style/ctaStyle"
+                android:id="@+id/main"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="الرئيسية"
+                />
+
+            <Button
+                style="@style/ctaStyle"
+                android:id="@+id/action"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="اكشن" />
+
+
+            <Button
+                style="@style/ctaStyle"
+                android:id="@+id/drama"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="دراما" />
+
+
+            <Button
+                style="@style/ctaStyle"
+                android:id="@+id/visal"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="خيال علمي" />
+
+            <Button
+                style="@style/ctaStyle"
+                android:id="@+id/horror"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="رعب" />
+
+            <Button
+                style="@style/ctaStyle"
+                android:id="@+id/cirm"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="جريمة" />
+
+
+            <Button
+                style="@style/ctaStyle"
+                android:id="@+id/Documentary"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="وثائقي" />
+
+            <Button
+                style="@style/ctaStyle"
+                android:id="@+id/Hirstory"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="تاريخي" />
+
+            <Button
+                style="@style/ctaStyle"
+                android:id="@+id/Animation"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="الرسوم المتحركه" />
+
+            <Button
+                style="@style/ctaStyle"
+                android:id="@+id/War"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="حرب" />
+
+            <Button
+                style="@style/ctaStyle"
+                android:id="@+id/Romance"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="رومانسي" />
+
+            <Button
+                style="@style/ctaStyle"
+                android:id="@+id/Biography"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="السيره الذاتيه" />
+
+            <Button
+                style="@style/ctaStyle"
+                android:id="@+id/Comedy"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="كوميدي" />
+
+
+
+
+        </LinearLayout>
+
+
+    </HorizontalScrollView>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/hsv"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="6dp"
+        android:layout_marginEnd="6dp"
+        android:layout_above="@+id/ad_view_container"
+        tools:listitem="2" />
+
+    <FrameLayout
+        android:id="@+id/ad_view_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

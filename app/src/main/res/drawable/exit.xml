@@ -1,0 +1,19 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:width="40dp"
+        android:height="40dp">
+        <shape>
+            <solid android:color="#80000000" />
+            <corners android:radius="10dp" />
+        </shape>
+    </item>
+
+    <item
+        android:width="30dp"
+        android:height="30dp"
+        android:gravity="center">
+        <bitmap android:src="@drawable/log_out" />
+    </item>
+
+</layer-list>
